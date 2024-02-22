@@ -1,7 +1,8 @@
 ### Hi there I'm Ángela López 👋
 
 
-About Me
+About Me:
+
 👩🏻‍🎓 I'm a PhD candidate in Artificial Intelligence at the Universitat Politecnica de Catalunya (UPC).
 
 👩🏻‍💻 I have MSc in Artificial Intelligence.
