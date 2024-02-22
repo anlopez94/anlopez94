@@ -3,8 +3,11 @@
 
 About Me
 👩🏻‍🎓 I'm a PhD candidate in Artificial Intelligence at the Universitat Politecnica de Catalunya (UPC).
+
 👩🏻‍💻 I have MSc in Artificial Intelligence.
+
 🔐 My main research interests are Large Language Models and cognitive data.
+
 📌 I'm based in Barcelona, Spain
 
 
