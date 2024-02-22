@@ -7,7 +7,7 @@ About Me:
 
 👩🏻‍💻 I have MSc in Artificial Intelligence.
 
-🔐 My main research interests are Large Language Models and cognitive data.
+🔐 My main research interests are Large Language Models, cognitive data, Reinforcement Learning and control algorithms for energy management.
 
 📌 I'm based in Barcelona, Spain
 
