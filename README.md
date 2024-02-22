@@ -5,7 +5,7 @@ About Me:
 
 👩🏻‍🎓 I'm a PhD candidate in Artificial Intelligence at the Universitat Politecnica de Catalunya (UPC).
 
-👩🏻‍💻 I have MSc in Artificial Intelligence.
+👩🏻‍💻 I have MSc in Artificial Intelligence and MSc in Industrial Engineering.
 
 🔐 My main research interests are Large Language Models, cognitive data, Reinforcement Learning and control algorithms for energy management.
 
